@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Manikandan 👋
 
-<!--
-**manikandanramadoss07/manikandanramadoss07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Biomedical Engineering Student | MedTech Enthusiast
 
-Here are some ideas to get you started:
+I'm a Biomedical Engineering student passionate about **medical technology, healthcare innovation, and AI-driven solutions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Biomedical Skills
+
+`Biomedical Instrumentation` `Medical Devices` `Biosensors` `Signal Processing` `ECG` `EEG` `EMG` `Medical Imaging` `Patient Monitoring`
+
+### 🛠️ Technical Skills
+
+`Python` `MATLAB` `Arduino` `IoT` `Git` `GitHub` `VS Code`
+
+### 🚀 Currently
+
+* Building healthcare-focused projects
+* Participating in hackathons
+* Exploring **AI, IoT & Medical Technologies**
+
+### 🎯 Goal
+
+**Building practical technology at the intersection of Engineering × Healthcare.**
+
+### 📫 Contact
+
+* 📧 Email: **[your-email@example.com](mailto:your-email@example.com)**
+* 💼 LinkedIn: **linkedin.com/in/yourusername**
+* 🐙 GitHub: **github.com/yourusername**
+
+---
+
+*Thanks for visiting my profile!*
+
+

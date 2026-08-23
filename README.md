@@ -24,7 +24,7 @@ I'm a Biomedical Engineering student passionate about **medical technology, heal
 
 ### 📫 Contact
 
-* 📧 Email: **[your-email@example.com](manikandanramadosscra@gmail.com)**
+* 📧 Email: **[manikandanramadosscra@gmail.com]**
 * 💼 LinkedIn: **linkedin.com/in/manikandan-ramadoss**
 * 🐙 GitHub: **github.com/yourusername**
 
